@@ -17,7 +17,7 @@ class PrepareBaseModelTrainingPipeline:
 
 
     
-if __name__ == '__main__':
+if __name__== "__main__":
     try:
         logger.info(f"*******************")
         logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")

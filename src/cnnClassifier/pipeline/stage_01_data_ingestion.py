@@ -16,7 +16,7 @@ class DataIngestionTrainingPipline:
         data_ingestion.download_file()
         data_ingestion.extract_zip_file()
         
-if __name__== '__main':
+if __name__== "__main__":
     try:
         logger.info(f">>>>>>>>>stage {STAGE_NAME} started <<<<<<<<")
         obj = DataIngestionTrainingPipline()
@@ -24,4 +24,5 @@ if __name__== '__main':
         logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<<<<<\n\nX==============X")
     
     except Exception as e:
-        Exception(e)
+        logger.exception(e)
+        raise(e)

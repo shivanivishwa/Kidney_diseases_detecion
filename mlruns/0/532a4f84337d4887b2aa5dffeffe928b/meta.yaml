@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/532a4f84337d4887b2aa5dffeffe928b/artifacts
+end_time: 1774203292483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 532a4f84337d4887b2aa5dffeffe928b
+run_name: sincere-whale-782
+run_uuid: 532a4f84337d4887b2aa5dffeffe928b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774203280058
+status: 4
+tags: []
+user_id: shiva

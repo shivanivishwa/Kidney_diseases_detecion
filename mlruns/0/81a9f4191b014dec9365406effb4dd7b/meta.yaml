@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/81a9f4191b014dec9365406effb4dd7b/artifacts
+end_time: 1774202580107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81a9f4191b014dec9365406effb4dd7b
+run_name: nebulous-owl-717
+run_uuid: 81a9f4191b014dec9365406effb4dd7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774202563384
+status: 4
+tags: []
+user_id: shiva
