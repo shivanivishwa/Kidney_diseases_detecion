@@ -1,7 +1,23 @@
+# Data & artifacts
 artifacts/
 data/
 *.zip
 *.jpg
 *.png
+
+# Logs
+logs/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build files
+*.egg-info/
+
+# Env
+venv/
+.env
