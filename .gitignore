@@ -1,1 +1,7 @@
-artifacts/*
+artifacts/
+data/
+*.zip
+*.jpg
+*.png
+__pycache__/
+*.pyc
